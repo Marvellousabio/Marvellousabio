@@ -16,6 +16,8 @@ tags: javascript, react, web-development
 ---
 ![GitHub License](https://img.shields.io/github/license/Marvellousabio/Livestreaming-App?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/Marvellousabio/Real-estate?style=social)
+![P](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Django](https://img.shields.io/badge/Django-4.0-green?logo=django)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="Marvellousabio" />
 </p>
