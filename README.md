@@ -1,17 +1,21 @@
-# 👋 Hello, I'm Marvellous Ogunleke!
+ 👋 Hello, I'm Marvellous Ogunleke!
 
-### 💻 Front End Developer in the Making
+ 💻 Front End Developer in the Making
 
-- 🌱 Currently learning **Front End Development** (HTML, CSS, JavaScript,React,Tailwindcss, Typescript)
+- 🌱 I ma a front end developer Currently learning FUll stack Development @nithub
+- (HTML, CSS, JavaScript,React,Tailwindcss, Typescript)
 - 🔥 Passionate about creating beautiful, user-friendly web interfaces
-- 🤝 Looking to collaborate on **open-source projects** via GitHub and any available opportunities(Job)
+- 🤝 Looking to collaborate on open-source projects via GitHub and any available opportunities(Job)
 - ✉️ Reach me at: [marvellousabiola08@gmail.com](mailto:marvellousabiola08@gmail.com)
-- 😄 Pronouns: **He/Him**
+- 😄 Pronouns: He/Him
 
-### ⚡ Fun Facts:
+ ⚡ Fun Facts:
 - I like solving problem everyday
-
 ---
+tags: javascript, react, web-development
+---
+![GitHub License](https://img.shields.io/github/license/Marvellousabio/repo?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/Marvellousabio/repo?style=social)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="Marvellousabio" />
