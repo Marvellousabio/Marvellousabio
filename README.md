@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Agripay**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **problem solving projects**
 
