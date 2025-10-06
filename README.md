@@ -1,19 +1,44 @@
 <h1 align="center">Hi 👋, I'm Marvellous Ogunleke</h1>
-<h3 align="center">A curious frontend developer from Nigeria with a passion to solve a problem everyday</h3>
+<h3 align="center">I’m a Full Stack Developer with strong expertise in building modern, scalable web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also work with PostgreSQL for relational database management.
+
+⚡ On the frontend, I leverage React.js and Next.js to create fast, responsive, and SEO-friendly applications, styled with Tailwind CSS for clean and consistent UI design.
+
+⚙️ On the backend, I develop robust APIs and server-side applications with Node.js and Express, ensuring seamless integration between the frontend and database.
+
+🚀 Currently, I’m expanding my skills into AI integration and Web3 development, exploring the future of decentralized applications and intelligent web solutions.
+
+
+---
+
+✨ Key Skills:
+
+React.js, Next.js
+
+JavaScript, Typescript, C++
+
+Node.js, Express.js, Python
+
+MongoDB, PostgreSQL
+
+Tailwind CSS, Bootstrap, CSS
+
+MERN Stack Development
+
+AI & Web3 (exploring)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="marvellousabio" /> </p>
 
 - 🔭 I’m currently working on **Agripay**
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **AI Web 3**
 
-- 👯 I’m looking to collaborate on **problem solving projects**
+- 👯 I’m looking for opportunities on **problem solving projects**
 
 - 👨‍💻 All of my projects are available at [https://marvellous-ogunleke-portfolio.netlify.app/](https://marvellous-ogunleke-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/marvellous-ogunleke2025/](https://www.linkedin.com/in/marvellous-ogunleke2025/)
 
-- 💬 Ask me about **react,Javascript,tailwind css,git**
+- 💬 Ask me about **next js,react,Javascript,tailwind css,git, node,Postgre css**
 
 - 📫 How to reach me **marvellousabiola08@gmail.com**
 
