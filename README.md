@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marvellous Ogunleke</h1>
 <h3 align="center">I’m a Full Stack Developer with strong expertise in building modern, scalable web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also work with PostgreSQL for relational database management.
 
-⚡ On the frontend, I leverage React.js and Next.js to create fast, responsive, and SEO-friendly applications, styled with Tailwind CSS for clean and consistent UI design.
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="marvellousabio" /> </p>
+
+- ⚡ On the frontend, I leverage React.js and Next.js to create fast, responsive, and SEO-friendly applications, styled with Tailwind CSS for clean and consistent UI design.
 
 ⚙️ On the backend, I develop robust APIs and server-side applications with Node.js and Express, ensuring seamless integration between the frontend and database.
 
@@ -24,9 +28,7 @@ Tailwind CSS, Bootstrap, CSS
 
 MERN Stack Development
 
-AI & Web3 (exploring)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="marvellousabio" /> </p>
+AI & Web3 (exploring)
 
 - 🔭 I’m currently working on **Agripay**
 
