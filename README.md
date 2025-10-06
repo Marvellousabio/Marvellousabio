@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marvellous Ogunleke</h1>
-<h3 align="center">I’m a Full Stack Developer with strong expertise in building modern, scalable web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also work with PostgreSQL for relational database management.
-
-</h3>
+<h5 align="center">I’m a Full Stack Developer with strong expertise in building modern, scalable web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js) and also work with PostgreSQL for relational database management.
+</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marvellousabio&label=Profile%20views&color=0e75b6&style=flat" alt="marvellousabio" /> </p>
 
