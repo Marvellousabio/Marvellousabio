@@ -35,7 +35,7 @@ AI & Web3 (exploring)
 
 - 👯 I’m looking for opportunities on **problem solving projects**
 
-- 👨‍💻 All of my projects are available at [https://marvellous-ogunleke-portfolio.netlify.app/](https://marvellous-ogunleke-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://marvellous-ogunleke-portfolio.netlify.app/](https://marvellous-ogunleke.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/marvellous-ogunleke2025/](https://www.linkedin.com/in/marvellous-ogunleke2025/)
 
