@@ -53,11 +53,12 @@
 <p align="left">
   <a href="https://marvellous-ogunleke.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel" alt="Portfolio" /> 
-    https://marvellous-ogunleke.vercel.app
+   portfolio: https://marvellous-ogunleke.vercel.app
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/marvellous-ogunleke2025/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Articles-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Articles" />
-    https://www.linkedin.com/in/marvellous-ogunleke2025
+    Linkedin https://www.linkedin.com/in/marvellous-ogunleke2025
   </a>
 </p>
 
