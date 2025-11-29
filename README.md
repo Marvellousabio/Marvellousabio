@@ -41,7 +41,7 @@
 
 <h3 align="left">📈 Current Status</h3>
 <ul>
-  <li>🔭 Working on <strong>Agripay</strong> - A fintech solution for agricultural payments</li>
+  <li>🔭 Working on <strong><a href="" target="_blank">Recieptr</a></strong> - An online reciept generator and manager for small businesses</li>
   <li>🌱 Learning <strong>AI and Web3 technologies</strong> (Solidity, Ethereum, TensorFlow)</li>
   <li>👯 Open to collaborations on <strong>problem-solving projects</strong></li>
   <li>💬 Ask me about <strong>Next.js,Node,Express, React, JavaScript, Tailwind CSS, Git, Node.js, PostgreSQL</strong></li>
