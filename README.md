@@ -51,11 +51,11 @@
 
 <h3 align="left">Cool Projects i have worked on</h3>
 <ul>
-  <ol><a href="https://nigeriaindependent.vercel.app">NigeriaIndependent</a>Nigerian culture and heritage showcase</ol>
-  <ol><a href="https://helpbus-five.vercel.app">Mobility</a>A transport accessibility app for disables</ol>
-  <ol><a href="https://secops-eight.vercel.app">Secops</a>A safety monitoring app for banks</ol>
-  <ol><a href="https://alumni-connect-ng.vercel.app">Alumni Connect</a> Help to connect alumni together</ol>
-  <ol><a href="https://oil-landing-page.vercel.app">oil comapany</a>A landing page</ol>
+  <ol>1 <a href="https://nigeriaindependent.vercel.app">NigeriaIndependent</a> Nigerian culture and heritage showcase</ol>
+  <ol>2 <a href="https://helpbus-five.vercel.app">Mobility</a> A transport accessibility app for disables</ol>
+  <ol>3 <a href="https://secops-eight.vercel.app">Secops</a> A safety monitoring app for banks</ol>
+  <ol>4 <a href="https://alumni-connect-ng.vercel.app"> Alumni Connect</a> Help to connect alumni together</ol>
+  <ol>5 <a href="https://oil-landing-page.vercel.app">oil comapany</a> A landing page</ol>
 </ul>
 
 <h3 align="left">🌐 Portfolio & Blog</h3>
