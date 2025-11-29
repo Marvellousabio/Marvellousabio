@@ -41,12 +41,21 @@
 
 <h3 align="left">📈 Current Status</h3>
 <ul>
-  <li>🔭 Working on <strong><a href="" target="_blank">Recieptr</a></strong> - An online reciept generator and manager for small businesses</li>
+  <li>🔭 Working on <strong><a href="https://receiptr-plum.vercel.app" target="_blank">Recieptr</a></strong> - An online reciept generator and manager for small businesses</li>
   <li>🌱 Learning <strong>AI and Web3 technologies</strong> (Solidity, Ethereum, TensorFlow)</li>
   <li>👯 Open to collaborations on <strong>problem-solving projects</strong></li>
   <li>💬 Ask me about <strong>Next.js,Node,Express, React, JavaScript, Tailwind CSS, Git, Node.js, PostgreSQL</strong></li>
   <li>📫 Reach me at <strong>marvellousabiola08@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I love solving problems every day!</strong></li>
+</ul>
+
+<h3 align="left">Cool Projects i have worked on</h3>
+<ul>
+  <ol><a href="https://nigeriaindependent.vercel.app">NigeriaIndependent</a>Nigerian culture and heritage showcase</ol>
+  <ol><a href="https://helpbus-five.vercel.app">Mobility</a>A transport accessibility app for disables</ol>
+  <ol><a href="https://secops-eight.vercel.app">Secops</a>A safety monitoring app for banks</ol>
+  <ol><a href="https://alumni-connect-ng.vercel.app">Alumni Connect</a> Help to connect alumni together</ol>
+  <ol><a href="https://oil-landing-page.vercel.app">oil comapany</a>A landing page</ol>
 </ul>
 
 <h3 align="left">🌐 Portfolio & Blog</h3>
