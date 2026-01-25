@@ -32,10 +32,10 @@
 
 <h3 align="left">✨ Key Skills:</h3>
 <ul>
-  <li><strong>Frontend:</strong> React.js (Advanced), Next.js (Intermediate), Tailwind CSS (Advanced), Bootstrap (Intermediate), CSS (Advanced)</li>
+  <li><strong>Frontend:</strong> React.js (Advanced), Next.js (Advanced), Tailwind CSS (Advanced), Bootstrap (Intermediate), CSS (Advanced)</li>
   <li><strong>Backend:</strong> Node.js (Advanced), Express.js (Advanced), Python (Intermediate)</li>
   <li><strong>Databases:</strong> MongoDB (Advanced), PostgreSQL (Intermediate)</li>
-  <li><strong>Languages:</strong> JavaScript (Advanced), TypeScript (Intermediate), C++ (Beginner)</li>
+  <li><strong>Languages:</strong> JavaScript (Advanced), TypeScript (Advanced), C++, Python</li>
   <li><strong>Other:</strong> MERN Stack (Advanced), Git (Intermediate), AI & Web3 (Exploring - Solidity, Ethereum, TensorFlow)</li>
 </ul>
 
